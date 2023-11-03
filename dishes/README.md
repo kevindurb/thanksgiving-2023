@@ -2,8 +2,19 @@
 
 ## Breakfast
 
-### [Egg Casserole](./egg-casserole.md)
+- [Egg Casserole](./egg-casserole.md)
+- Fruit
+- Memosas
 
 ## Dinner
 
-### [Turkey](./turkey.md)
+- [Turkey](./turkey.md)
+- Corn Casserole
+- Stuffing
+- Sweet Potatoes with brown sugar syrup
+- Green Bean Casserole
+
+## Desert
+
+- Apple Pie
+- Kentucky Derby Pie
