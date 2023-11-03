@@ -4,7 +4,7 @@
 
 - [Egg Casserole](./egg-casserole.md)
 - Fruit
-- Memosas
+- Mimosas
 
 ## Dinner
 
@@ -13,8 +13,11 @@
 - Stuffing
 - Sweet Potatoes with brown sugar syrup
 - Green Bean Casserole
+- Cranberry Sauce
+- Mashed Potatoes
 
 ## Desert
 
 - Apple Pie
 - Kentucky Derby Pie
+- Pecan Pie
