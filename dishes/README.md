@@ -8,16 +8,10 @@
 
 ## Dinner
 
-- [Turkey](./turkey.md)
-- Corn Casserole
-- Stuffing
-- Sweet Potatoes with brown sugar syrup
-- Green Bean Casserole
-- Cranberry Sauce
-- Mashed Potatoes
-
-## Desert
-
-- Apple Pie
-- Kentucky Derby Pie
-- Pecan Pie
+- [Turkey With Gravy](./turkey.md)
+- [Corn Casserole](./corn-casserole.md)
+- [Stuffing](./stuffing.md)
+- [Sweet Potatoes with brown sugar syrup](./sweet-potatoes.md)
+- [Green Bean Casserole](./green-bean-casserole.md)
+- [Cranberry Sauce](./cranberry-sauce.md)
+- [Mashed Potatoes](./mashed-potatoes.md)
